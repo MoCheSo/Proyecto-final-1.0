@@ -11,3 +11,6 @@ Materia: Programación de Aplicaciones Web<br>
 Docente: Edgar D Caamal Dzulu<br>
 Alumna: Monica A Cherrez Solis<br><br>
 
+<br><br>
+#Nota
+<br>Maestro le anexe en mi repositorio un .zip porque al querer poner la carpeta de mi proyecto arrastrandola, no me dejó. Por el número de archivos que son bastantes, así que opté por subirle un .zip
